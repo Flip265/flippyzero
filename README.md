@@ -20,7 +20,7 @@ Flippyzero is a Roblox Lua script that provides an advanced GUI-based interface 
 ## Installation
 
 ```lua
-loadstring(game:HttpGet("hhttps://raw.githubusercontent.com/Flip265/flippyzero/refs/heads/main/flippyzero.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Flip265/flippyzero/refs/heads/main/flippyzero.lua"))()
 ```
 
 ## Usage
